@@ -1,4 +1,1 @@
-int a 5
-int b 6
-system out 11
-
+I love north korea because Kim jan u
