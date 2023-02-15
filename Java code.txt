@@ -2,3 +2,7 @@ int a = 2
 int b = 3
 system.out (a+b)
 3
+int a 0
+intt ba 7
+system out a+b 
+5
